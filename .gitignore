@@ -1,0 +1,16 @@
+__pycache__
+*.cdf
+*.nc
+*.png
+*.csv
+*.log
+*.yaml
+*.egg-info/
+*.hpl
+*.html
+*.log
+*.xlsx
+*.txt
+*.kml
+*.kmz
+build/
